@@ -18,6 +18,7 @@ Tidarr is a Docker image that provides a web interface to download up to **24-bi
 
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [One-Click Deploy](#one-click-deploy)
 - [Tidal authentication](#tidal-authentication)
 - [Options](#options)
   - [Download settings](#download-settings)
@@ -148,6 +149,10 @@ docker run  \
 >   - ...
 >   - /path/to/media-drive/processing:/shared/.processing # Separate drive for temp downloads
 > ```
+
+## ONE-CLICK DEPLOY
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Tidarr/)
 
 ## TIDAL AUTHENTICATION
 
